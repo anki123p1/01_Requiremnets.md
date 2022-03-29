@@ -37,7 +37,7 @@ It can help to improve a person's concentration as well as strategic thinking
 
 ## Defining Our System
 
-![Description](https://github.com/ArnoldKevinDesouza/Tic-Tac-Toe/blob/main/6_Media/flow.png?raw=true)
+![Description](images/C:\Users\DELL\Downloads\baseic.jpg)
 ### Explanation:
 * The game starts giving you three input options(1, 2, 3):
     * 1 means you play using 'X'.
